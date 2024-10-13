@@ -1,1 +1,1 @@
-# YCCI-MZ-Sentence-Segmentation-using-ML
+# Sentence-Segmentation-using-ML
